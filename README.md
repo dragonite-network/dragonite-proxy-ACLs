@@ -1,5 +1,7 @@
 # Creating ACL files for clients
 
+[中文 README](README-CN.md)
+
 With ACL files, you can customize the way dragonite-proxy handling different destination addresses. You can create rules telling it which sites should be connected through the remote server, which sites should be connected through local network and which sites should be blocked.
 
 An ACL file consists of two sections, information section and rules section.
